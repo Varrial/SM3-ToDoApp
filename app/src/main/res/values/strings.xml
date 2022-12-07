@@ -1,3 +1,11 @@
 <resources>
-    <string name="app_name">SM3-ToDoApp</string>
+    <string name="app_name">To do App</string>
+    <string name="name_hint">Wpisz nazwę zadania</string>
+    <string name="name_label">Nazwa</string>
+    <string name="details_label">Szczegóły</string>
+    <string name="done_label">Wykonane</string>
+    <string name="task_add_new">Nowe Zadanie</string>
+    <string name="show_subtitle">Pokaż liczbę zadań</string>
+    <string name="hide_subtitle">Ukryj liczbę zadań</string>
+    <string name="subtitle_format">%1$d Zadanie</string>
 </resources>
